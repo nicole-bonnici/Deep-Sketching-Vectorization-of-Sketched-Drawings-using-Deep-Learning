@@ -6,7 +6,8 @@ The enviroments required to run this code are;
 	
 For augmentation each step is split into different codes, thus the output is saved and can be easily accessible. The order suggested should be used. Also it is important to specify the number of files as the number of times to lopp is repeated.
 
-The file 'targets' contains the ground truths for the sketches from https://www.easy-drawings-and-sketches.com/ with permission from the author.
+The file 'targets' contains the ground truths for the sketches from https://www.easy-drawings-and-sketches.com/ with permission from the author and from https://github.com/ishanrai05/rough-sketch-simplification-using-FCNN.
+
 The dataset used also conatined images from 
 
 @article{Yan:2020:ABR,
