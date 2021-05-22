@@ -5,3 +5,5 @@ The enviorments required to use this code are
 	matplotlib
 	networkx
 	cv2
+	
+Run the code Vectorization.ipynb
