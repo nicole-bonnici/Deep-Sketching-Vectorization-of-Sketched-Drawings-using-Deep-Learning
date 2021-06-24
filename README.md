@@ -7,7 +7,7 @@ The folder Dataset contains the code for aligning and augmenting the data, as we
 
 The folder FCNN contains the file to train the convolutional neural network and the code to clean drawings with the trained model.
 
-The folder Vectorization contains the code to cnvert raster images to their vector counter parts.
+The folder Vectorization contains the code to convert raster images to their vector counter parts.
 
 The folder Future work contains the regularaization loss function based on gabor filters that could be further developed.
 
